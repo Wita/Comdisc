@@ -1,0 +1,12 @@
+; some example nodes
+hello {color:red, label:HELLO}
+world {color:orange}
+; some edges
+hello -> world {color:yellow}
+foo -> bar {color:blue}
+bar -> baz {weight:1}
+1->2
+3->4
+4->11
+
+54->9

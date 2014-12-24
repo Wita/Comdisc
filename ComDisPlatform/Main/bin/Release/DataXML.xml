@@ -1,0 +1,66 @@
+﻿<Root>
+  <BarName Value="数据获取" ByName="a">
+    <TabName Text="环境设置">
+    </TabName>
+    <TabName Text="爬取数据">
+    </TabName>
+    <TabName Text="数据预处理">F:\Tools\SecurityToolskit\生成器.exe</TabName>
+  </BarName>
+  <BarName Value="数据建模">
+    <TabName Text="中文分词">
+    </TabName>
+    <TabName Text="分词设置">
+    </TabName>
+    <TabName Text="向量模型">F:\Tools\SecurityToolskit\ProcExp.exe</TabName>
+    <TabName Text="概率模型">
+    </TabName>
+    <TabName Text="网络模型">
+    </TabName>
+    <TabName Text="推理网络">
+    </TabName>
+  </BarName>
+  <BarName Value="数据约简">
+    <TabName Text="属性约简">
+    </TabName>
+    <TabName Text="规则约简">
+    </TabName>
+    <TabName Text="规则集极小化">
+    </TabName>
+    <TabName Text="分类器测试">
+    </TabName>
+  </BarName>
+  <BarName Value="知识发现">
+    <TabName Text="文本数据聚类">
+    </TabName>
+    <TabName Text="结果可视化">
+    </TabName>
+    <TabName Text="关联规则">
+    </TabName>
+  </BarName>
+  <BarName Value="网络话题发现">
+    <TabName Text="参数选择">
+    </TabName>
+    <TabName Text="数据选择">
+    </TabName>
+    <TabName Text="发现话题">
+    </TabName>
+    <TabName Text="结果可视化">
+    </TabName>
+  </BarName>
+  <BarName Value="系统">
+    <TabName Text="系统设置">
+    </TabName>
+  </BarName>
+  <BarName Value="界面风格">
+    <TabName Text="Office2007">
+    </TabName>
+  </BarName>
+  <BarName Value="帮助">
+    <TabName Text="关于">
+    </TabName>
+    <TabName Text="升级">
+    </TabName>
+    <TabName Text="使用手册">
+    </TabName>
+  </BarName>
+</Root>

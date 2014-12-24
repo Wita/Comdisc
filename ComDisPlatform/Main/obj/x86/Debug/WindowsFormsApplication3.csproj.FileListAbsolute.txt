@@ -1,0 +1,12 @@
+D:\Code\C#\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+D:\Code\C#\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+D:\Code\C#\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Properties.Resources.resources
+D:\Code\C#\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+D:\Code\C#\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.exe
+D:\Code\C#\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.pdb
+D:\Code\C#\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.MainWindow.resources
+D:\Code\C#\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.CeShi.resources
+D:\Code\C#\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+D:\Code\C#\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\BigDataUtil.dll
+D:\Code\C#\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\BigDataUtil.pdb
+D:\Code\C#\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
